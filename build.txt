@@ -1,0 +1,3 @@
+author = Turquoise
+version = 0.1
+displayName = Aesthetic Experience
